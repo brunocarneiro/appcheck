@@ -1,0 +1,7 @@
+#Thu Aug 27 10:46:51 BRT 2015
+analyseLocally=false
+eclipse.preferences.version=1
+extraProperties=sonar.jdbc.password\=sonar\r\nsonar.host.url\=http\://192.168.1.140\:9000/\r\nsonar.jdbc.url\=jdbc\:oracle\:thin\:@192.168.1.39\:1521\:dbunip02\r\nsonar.jdbc.username\=sonar\r\nsonar.jdbc.driver\=oracle.jdbc.driver.OracleDriver
+projectKey=com.github.brunocarneiro\:appcheck_spi
+serverUrl=http\://bndesic.powerlogic.com.br\:9000
+version=2
